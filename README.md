@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Pramendra Shukla <br>🚀 Full Stack Developer | Technical Trainer | Content Creator  <br>📍 Based in Vadodara, Gujarat<br>🤵🏼Founder of varCODE, empowering students with cutting-edge technology solutions and practical learning.<br>🧑🏼‍💻Building real-time web applications using MERN, MEAN and NextJS technologies.<br>💬Currently building a chat application using Next.js, TypeScript, Prisma, MongoDB, NextAuth, and Pusher.<br>📹Creating content on coding, web development, and problem-solving on my YouTube channel CodeSnipss.  
+👋 Hello, I'm Pramendra Shukla <br>🚀 Software Engineer | Technical Trainer | Content Creator  <br>📍 Based in Vadodara, Gujarat<br>🤵🏼Founder of varCODE, empowering students with cutting-edge technology solutions and practical learning.<br>🧑🏼‍💻Building real-time web applications using MERN, MEAN and NextJS technologies.<br>💬Currently building a chat application using Next.js, TypeScript, Prisma, MongoDB, NextAuth, and Pusher.<br>📹Creating content on coding, web development, and problem-solving on my YouTube channel CodeSnipss.  
 
 
 ## 🌐 Socials:
